@@ -4,5 +4,10 @@ title: "cv"
 permalink: /cv/
 ---
 
-# \textcolor{red}{EDU}CATION
-\textcolor{red}{EDU}CATION
+## EXPERIENCE
+
+## EDUCATION
+
+## SERVICES
+
+## LANGUAGES
