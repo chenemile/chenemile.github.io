@@ -40,9 +40,7 @@ plainwhite:
     #   instance: example.com
     
   navigation:
-    - title: about
-      url: "/about"
-    - title: resume
+    - title: [resume]
       url: "/resume"
       
 # If you want to link only specific pages in your header, uncomment
