@@ -119,5 +119,5 @@ Spanish
 French  
 
 
-## &#02709; &#x2709 CONTACT
+## &#f2bb; CONTACT
 echen41@illinois.edu
