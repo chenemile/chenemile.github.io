@@ -6,10 +6,10 @@ permalink: /cv/
 
 ## EXPERIENCE
 
-**University of Illinois Urbana-Champaign**\
+**University of Illinois Urbana-Champaign**  
 *Research Assistant* | Sep 2016 - Present
 
-**Educational Testing Services**\
+**Educational Testing Services**  
 *Natural Language Processing Intern* | Jun 2019 - Aug 2019
 
 
