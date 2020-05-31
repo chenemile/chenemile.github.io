@@ -13,7 +13,7 @@ permalink: /cv/
 *Natural Language Processing Intern* | Jun 2019 - Aug 2019
 
 
-## &#8592; EDUCATION &#8592;
+## EDUCATION
 
 **University of Illinois Urbana-Champaign**  
 *Ph.D. in Linguistics* | May 2021 (Expected)
@@ -119,5 +119,5 @@ Spanish
 French  
 
 
-## CONTACT
-&#02709; echen41@illinois.edu
+## &#02709; &#x2709 CONTACT
+echen41@illinois.edu
