@@ -103,21 +103,21 @@ Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In S
 
 ### Programming
 
-Python  
-Git  
-LaTeX  
-Bash  
-Javascript  
-Java  
-C++  
+&#9679; &#9679; &#9679; &#9679; &#9679; Python  
+&#9679; &#9679; &#9679; &#9679; &#9679; Git  
+&#9679; &#9679; &#9679; &#9679; &#9675;LaTeX  
+&#9679; &#9679; &#9679; &#9675; &#9675; Bash  
+&#9679; &#9679; &#9675; &#9675; &#9675; Javascript  
+&#9679; &#9679; &#9675; &#9675; &#9675; Java  
+&#9679; &#9675; &#9675; &#9675; &#9675; C++  
 
 ### Natural
 
-English  
-Mandarin  
-Spanish  
-French  
+&#9679; &#9679; &#9679; &#9679; &#9679; English  
+&#9679; &#9679; &#9679; &#9679; &#9675; Mandarin  
+&#9679; &#9679; &#9679; &#9675; &#9675; Spanish  
+&#9679; &#9675; &#9675; &#9675; &#9675; French  
 
 
-## &#195042; CONTACT
+## &#9993; CONTACT
 echen41@illinois.edu
