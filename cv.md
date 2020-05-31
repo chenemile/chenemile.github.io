@@ -13,9 +13,8 @@ permalink: /cv/
 *Natural Language Processing Intern* | Jun 2019 - Aug 2019
 
 
-## &#1F393; EDUCATION &#1F393; 
+## &#8592; EDUCATION &#8592;
 
-&#1F393; 
 **University of Illinois Urbana-Champaign**  
 *Ph.D. in Linguistics* | May 2021 (Expected)
 
@@ -27,9 +26,7 @@ permalink: /cv/
 Minors in Mathematics, Spanish
 
 
-```diff
-+ ## PUBLICATIONS
-```
+## PUBLICATIONS
 
 **Emily Chen**, Hayley "Hyunji" Park, Lane Schwartz  
 Improving Finite-State Morphological Analysis for St. Lawrence Island Yupik With Paradigm Function Morphology  
@@ -123,6 +120,4 @@ French
 
 
 ## CONTACT
-:+1: echen41@illinois.edu
-&#8592;
-&\#8592;
+&#02709; echen41@illinois.edu
