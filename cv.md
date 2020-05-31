@@ -27,7 +27,9 @@ permalink: /cv/
 Minors in Mathematics, Spanish
 
 
-## PUBLICATIONS
+```diff
++ ## PUBLICATIONS
+```
 
 **Emily Chen**, Hayley "Hyunji" Park, Lane Schwartz  
 Improving Finite-State Morphological Analysis for St. Lawrence Island Yupik With Paradigm Function Morphology  
@@ -121,4 +123,4 @@ French
 
 
 ## CONTACT
-:email: echen41@illinois.edu
+:+1: echen41@illinois.edu
