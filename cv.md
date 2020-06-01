@@ -7,10 +7,13 @@ permalink: /cv/
 ## &#9819; &nbsp; EXPERIENCE
 
 **University of Illinois Urbana-Champaign**  
-*Research Assistant* | Sep 2016 - Present
+*Research Assistant* | Sep 2016 - Present  
+- Developing resources for the endangered language St. Lawrence Island Yupik  
 
 **Educational Testing Services**  
 *Natural Language Processing Intern* | Jun 2019 - Aug 2019
+- Improved the fragment and run-on detection systems in the *e-rater* engine for automatic essay assessment  
+- Added additional features for extraction and ran ablation experiments to maximize performance metrics  
 
 <br />
 ## &#9878; &nbsp; EDUCATION
