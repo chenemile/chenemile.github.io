@@ -4,7 +4,7 @@ title: "cv"
 permalink: /cv/
 ---
 
-## EXPERIENCE
+## &#9819; EXPERIENCE
 
 **University of Illinois Urbana-Champaign**  
 *Research Assistant* | Sep 2016 - Present
@@ -12,8 +12,8 @@ permalink: /cv/
 **Educational Testing Services**  
 *Natural Language Processing Intern* | Jun 2019 - Aug 2019
 
-
-## EDUCATION
+  
+## &#9878; EDUCATION
 
 **University of Illinois Urbana-Champaign**  
 *Ph.D. in Linguistics* | May 2021 (Expected)
@@ -26,7 +26,7 @@ permalink: /cv/
 Minors in Mathematics, Spanish
 
 
-## PUBLICATIONS
+## &#9997; PUBLICATIONS
 
 **Emily Chen**, Hayley "Hyunji" Park, Lane Schwartz  
 Improving Finite-State Morphological Analysis for St. Lawrence Island Yupik With Paradigm Function Morphology  
@@ -81,7 +81,7 @@ Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In S
 *Language Documentation & Conservation*, 11, 275-288
 
 
-## SERVICES
+## &#9982; SERVICES
 
 **Association for Computational Linguistics Student Research Workshop (ACL SRW)**  
 *Reviewer* | 2020
@@ -99,7 +99,7 @@ Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In S
 *Reviewer* | 2019
 
 
-## LANGUAGES
+## &#664; LANGUAGES
 
 ### Programming
 
