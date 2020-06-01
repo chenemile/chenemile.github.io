@@ -7,7 +7,7 @@ permalink: /cv/
 ## &#9819; &nbsp; EXPERIENCE
 
 **University of Illinois Urbana-Champaign**  
-*Research Assistant* | Sep 2016 - Present  
+*Research Assistant*  &nbsp; | Sep 2016 - Present
 - Developing resources for the endangered language St. Lawrence Island Yupik  
 
 **Educational Testing Services**  
@@ -19,13 +19,13 @@ permalink: /cv/
 ## &#9878; &nbsp; EDUCATION
 
 **University of Illinois Urbana-Champaign**  
-*Ph.D. in Linguistics* | May 2021 (Expected)
+*Ph.D. in Linguistics*  &nbsp; | May 2021 (Expected)
 
 **University of Illinois Urbana-Champaign**  
-*M.A. in Linguistics* | May 2018
+*M.A. in Linguistics*  &nbsp; | May 2018
 
 **Rutgers University**  
-*B.A. in Linguistics* | May 2015  
+*B.A. in Linguistics*  &nbsp; | May 2015  
 Minors in Mathematics, Spanish
 
 <br />
@@ -87,19 +87,19 @@ Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In S
 ## &#9982; &nbsp; SERVICES
 
 **Association for Computational Linguistics Student Research Workshop (ACL SRW)**  
-*Reviewer* | 2020
+*Reviewer*  &nbsp; | 2020
 
 **Joint Workshop: Spoken Language Technologies for Under-Resourced Languages\& Collaboration and Computing for Under-Resourced Languages (STLU-CCURL)**   
-*Reviewer* | 2020
+*Reviewer*  &nbsp; | 2020
 
 **Language Resources and Evaluation Conference (LREC)**  
-*Reviewer* | 2020
+*Reviewer*  &nbsp; | 2020
 
 **Language Resources and Evaluation (LREV)**  
-*Reviewer* | 2019
+*Reviewer*  &nbsp; | 2019
 
 **Workshop on Computational Methods for Endangered Languages (ComputEL)**  
-*Reviewer* | 2019
+*Reviewer*  &nbsp; | 2019
 
 <br />
 ## &#664;  &nbsp; LANGUAGES
