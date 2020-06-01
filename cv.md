@@ -4,7 +4,7 @@ title: "cv"
 permalink: /cv/
 ---
 
-## &#9819; EXPERIENCE
+## &#9819; &nbsp; EXPERIENCE
 
 **University of Illinois Urbana-Champaign**  
 *Research Assistant* | Sep 2016 - Present
@@ -12,8 +12,8 @@ permalink: /cv/
 **Educational Testing Services**  
 *Natural Language Processing Intern* | Jun 2019 - Aug 2019
 
-  
-## &#9878; EDUCATION
+<br />
+## &#9878; &nbsp; EDUCATION
 
 **University of Illinois Urbana-Champaign**  
 *Ph.D. in Linguistics* | May 2021 (Expected)
@@ -26,7 +26,7 @@ permalink: /cv/
 Minors in Mathematics, Spanish
 
 
-## &#9997; PUBLICATIONS
+## &#9997; &nbsp; PUBLICATIONS
 
 **Emily Chen**, Hayley "Hyunji" Park, Lane Schwartz  
 Improving Finite-State Morphological Analysis for St. Lawrence Island Yupik With Paradigm Function Morphology  
@@ -81,7 +81,7 @@ Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In S
 *Language Documentation & Conservation*, 11, 275-288
 
 
-## &#9982; SERVICES
+## &#9982; &nbsp; SERVICES
 
 **Association for Computational Linguistics Student Research Workshop (ACL SRW)**  
 *Reviewer* | 2020
@@ -99,7 +99,7 @@ Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In S
 *Reviewer* | 2019
 
 
-## &#664; LANGUAGES
+## &#664;  &nbsp; LANGUAGES
 
 ### Programming
 
@@ -119,5 +119,5 @@ Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In S
 &#9679; &#9675; &#9675; &#9675; &#9675; &nbsp; &nbsp; French  
 
 
-## &#9993; CONTACT
+## &#9993; &nbsp; CONTACT
 echen41@illinois.edu
