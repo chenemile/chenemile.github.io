@@ -25,8 +25,8 @@ permalink: /cv/
 *B.A. in Linguistics* | May 2015  
 Minors in Mathematics, Spanish
 
-
-## &#9997; &nbsp; PUBLICATIONS
+<br />
+## &#10002; &nbsp; PUBLICATIONS
 
 **Emily Chen**, Hayley "Hyunji" Park, Lane Schwartz  
 Improving Finite-State Morphological Analysis for St. Lawrence Island Yupik With Paradigm Function Morphology  
@@ -80,7 +80,7 @@ Lane Schwartz, **Emily Chen**
 Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In St. Lawrence Island/Central Siberian Yupik  
 *Language Documentation & Conservation*, 11, 275-288
 
-
+<br />
 ## &#9982; &nbsp; SERVICES
 
 **Association for Computational Linguistics Student Research Workshop (ACL SRW)**  
@@ -98,7 +98,7 @@ Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In S
 **Workshop on Computational Methods for Endangered Languages (ComputEL)**  
 *Reviewer* | 2019
 
-
+<br />
 ## &#664;  &nbsp; LANGUAGES
 
 ### Programming
@@ -118,6 +118,6 @@ Liinnaqumalghiit: A Web-Based Tool For Addressing Orthographic Transparency In S
 &#9679; &#9679; &#9679; &#9675; &#9675; &nbsp; &nbsp; Spanish  
 &#9679; &#9675; &#9675; &#9675; &#9675; &nbsp; &nbsp; French  
 
-
+<br />
 ## &#9993; &nbsp; CONTACT
 echen41@illinois.edu
